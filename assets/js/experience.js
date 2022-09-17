@@ -8,7 +8,7 @@ const exp = [{
     title: "Web Development Intern",
     cardImage: "assets/images/experience-page/flipkart.png",
     place: "SoLEco Consortium",
-    time: "(July, 2021 - present)",
+    time: "(Jul, 2021 - Dec, 2021)",
     desp: "<li>Worked on Developing Website in Wordpress and Code.</li> <li>Made changes in the current progressive web app of Soleco to react to different actions performed on Web page.</li> <li>Impliemented a Blog Post Section in website about Client's Work.</li>",
 }, ];
 
